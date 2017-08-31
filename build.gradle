@@ -17,7 +17,7 @@ apply plugin: 'maven'
 dependencies {
     testCompile 'junit:junit:4.12'
     //compile 'io.swagger:swagger-codegen:2.2.3'
-    compile 'com.github.craffael:swagger-codegen:allEnhancements'
+    compile 'com.github.craffael:swagger-codegen:allEnhancements-SNAPSHOT'
     compile gradleApi()
     compile localGroovy()
 }

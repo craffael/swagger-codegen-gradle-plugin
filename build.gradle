@@ -18,7 +18,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     //compile 'io.swagger:swagger-codegen:2.2.3'
     //compile 'com.github.craffael:swagger-codegen:allEnhancements-SNAPSHOT'
-    compile 'com.github.craffael:swagger-codegen:498ad96121'
+    compile 'com.github.craffael:swagger-codegen:5ead38fe6c'
     compile gradleApi()
     compile localGroovy()
 }
